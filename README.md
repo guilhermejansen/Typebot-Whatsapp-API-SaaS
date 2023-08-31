@@ -1,5 +1,5 @@
 # TypeBot + WhatsApp API (Oficial e Não-Oficial) Integration SaaS 🤖📲
-
+Com Auto-Instalador
 ## 🇧🇷 Português
 
 ### 🌟 Sobre
