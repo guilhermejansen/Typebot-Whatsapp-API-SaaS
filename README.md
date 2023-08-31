@@ -1,4 +1,4 @@
-# TypeBot + WhatsApp API (Oficial e Não-Oficial) Integration 🤖📲
+# TypeBot + WhatsApp API (Oficial e Não-Oficial) Integration SaaS 🤖📲
 
 ## 🇧🇷 Português
 
